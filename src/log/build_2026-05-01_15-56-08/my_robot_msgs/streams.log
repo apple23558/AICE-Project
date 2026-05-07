@@ -1,0 +1,144 @@
+[0.053s] Invoking command in '/home/aice/ros2_ws/src/build/my_robot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aice/ros2_ws/src/install/my_robot_package:/home/aice/ros2_ws/src/my_robot_package/install/my_robot_package:/home/aice/my_ros2_ws/src/install/aice_sim:/home/aice/turtlebot3_ws/install/turtlebot3_teleop:/home/aice/turtlebot3_ws/install/turtlebot3_example:/home/aice/turtlebot3_ws/install/my_turtlebot_controller:/opt/ros/humble /usr/bin/cmake --build /home/aice/ros2_ws/src/build/my_robot_msgs -- -j16 -l16
+[0.156s] [  3%] Built target my_robot_msgs__cpp
+[0.163s] [ 12%] Built target my_robot_msgs__rosidl_generator_c
+[0.191s] [ 12%] Built target ament_cmake_python_copy_my_robot_msgs
+[0.223s] [ 22%] Built target my_robot_msgs__rosidl_typesupport_cpp
+[0.223s] [ 32%] Built target my_robot_msgs__rosidl_typesupport_fastrtps_cpp
+[0.223s] [ 41%] Built target my_robot_msgs__rosidl_typesupport_introspection_c
+[0.225s] [ 51%] Built target my_robot_msgs__rosidl_typesupport_fastrtps_c
+[0.225s] [ 61%] Built target my_robot_msgs__rosidl_typesupport_c
+[0.232s] [ 70%] Built target my_robot_msgs__rosidl_typesupport_introspection_cpp
+[0.283s] [ 70%] Built target my_robot_msgs
+[0.330s] [ 74%] Built target my_robot_msgs__py
+[0.380s] [ 80%] Built target my_robot_msgs__rosidl_generator_py
+[0.429s] [ 87%] Built target my_robot_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.433s] [ 93%] Built target my_robot_msgs__rosidl_typesupport_c__pyext
+[0.434s] [100%] Built target my_robot_msgs__rosidl_typesupport_introspection_c__pyext
+[0.580s] running egg_info
+[0.582s] writing my_robot_msgs.egg-info/PKG-INFO
+[0.582s] writing dependency_links to my_robot_msgs.egg-info/dependency_links.txt
+[0.583s] writing top-level names to my_robot_msgs.egg-info/top_level.txt
+[0.586s] reading manifest file 'my_robot_msgs.egg-info/SOURCES.txt'
+[0.588s] writing manifest file 'my_robot_msgs.egg-info/SOURCES.txt'
+[0.623s] [100%] Built target ament_cmake_python_build_my_robot_msgs_egg
+[0.643s] Invoked command in '/home/aice/ros2_ws/src/build/my_robot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aice/ros2_ws/src/install/my_robot_package:/home/aice/ros2_ws/src/my_robot_package/install/my_robot_package:/home/aice/my_ros2_ws/src/install/aice_sim:/home/aice/turtlebot3_ws/install/turtlebot3_teleop:/home/aice/turtlebot3_ws/install/turtlebot3_example:/home/aice/turtlebot3_ws/install/my_turtlebot_controller:/opt/ros/humble /usr/bin/cmake --build /home/aice/ros2_ws/src/build/my_robot_msgs -- -j16 -l16
+[0.648s] Invoking command in '/home/aice/ros2_ws/src/build/my_robot_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aice/ros2_ws/src/install/my_robot_package:/home/aice/ros2_ws/src/my_robot_package/install/my_robot_package:/home/aice/my_ros2_ws/src/install/aice_sim:/home/aice/turtlebot3_ws/install/turtlebot3_teleop:/home/aice/turtlebot3_ws/install/turtlebot3_example:/home/aice/turtlebot3_ws/install/my_turtlebot_controller:/opt/ros/humble /usr/bin/cmake --install /home/aice/ros2_ws/src/build/my_robot_msgs
+[0.661s] -- Install configuration: ""
+[0.661s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/ament_index/resource_index/rosidl_interfaces/my_robot_msgs
+[0.663s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs
+[0.663s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg
+[0.663s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/custom_message.h
+[0.663s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.663s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail
+[0.663s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__functions.h
+[0.663s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__type_support.h
+[0.664s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__functions.c
+[0.664s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__struct.h
+[0.664s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/environment/library_path.sh
+[0.664s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/environment/library_path.dsv
+[0.664s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/lib/libmy_robot_msgs__rosidl_generator_c.so
+[0.664s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs
+[0.664s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg
+[0.664s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail
+[0.665s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__rosidl_typesupport_fastrtps_c.h
+[0.665s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.666s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/lib/libmy_robot_msgs__rosidl_typesupport_fastrtps_c.so
+[0.667s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs
+[0.667s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg
+[0.667s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/custom_message.hpp
+[0.668s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.668s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail
+[0.668s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__builder.hpp
+[0.668s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__type_support.hpp
+[0.668s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__traits.hpp
+[0.668s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__struct.hpp
+[0.668s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs
+[0.668s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg
+[0.669s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.669s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail
+[0.669s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__rosidl_typesupport_fastrtps_cpp.hpp
+[0.669s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/dds_fastrtps
+[0.670s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/lib/libmy_robot_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.670s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs
+[0.671s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg
+[0.671s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail
+[0.671s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__type_support.c
+[0.671s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__rosidl_typesupport_introspection_c.h
+[0.671s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.675s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/lib/libmy_robot_msgs__rosidl_typesupport_introspection_c.so
+[0.675s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/lib/libmy_robot_msgs__rosidl_typesupport_c.so
+[0.675s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs
+[0.675s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg
+[0.675s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail
+[0.675s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__rosidl_typesupport_introspection_cpp.hpp
+[0.675s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/include/my_robot_msgs/my_robot_msgs/msg/detail/custom_message__type_support.cpp
+[0.677s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/lib/libmy_robot_msgs__rosidl_typesupport_introspection_cpp.so
+[0.679s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/lib/libmy_robot_msgs__rosidl_typesupport_cpp.so
+[0.679s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/environment/pythonpath.sh
+[0.679s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/environment/pythonpath.dsv
+[0.679s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs-0.0.0-py3.10.egg-info
+[0.679s] -- Installing: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.680s] -- Installing: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[0.680s] -- Installing: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.680s] -- Installing: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[0.680s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs
+[0.681s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/_my_robot_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.681s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/my_robot_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.681s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/__init__.py
+[0.681s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/_my_robot_msgs_s.ep.rosidl_typesupport_c.c
+[0.681s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/_my_robot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.682s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/libmy_robot_msgs__rosidl_generator_py.so
+[0.682s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/msg
+[0.682s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/msg/__init__.py
+[0.682s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/msg/_custom_message.py
+[0.682s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/msg/_custom_message_s.c
+[0.682s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/my_robot_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.682s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/my_robot_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.735s] Listing '/home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs'...
+[0.735s] Listing '/home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/msg'...
+[0.743s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/my_robot_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.745s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/my_robot_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.747s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/local/lib/python3.10/dist-packages/my_robot_msgs/my_robot_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.749s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/lib/libmy_robot_msgs__rosidl_generator_py.so
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/msg/CustomMessage.idl
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/msg/CustomMessage.msg
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/ament_index/resource_index/package_run_dependencies/my_robot_msgs
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/ament_index/resource_index/parent_prefix_path/my_robot_msgs
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/environment/ament_prefix_path.sh
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/environment/ament_prefix_path.dsv
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/environment/path.sh
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/environment/path.dsv
+[0.751s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/local_setup.bash
+[0.752s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/local_setup.sh
+[0.752s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/local_setup.zsh
+[0.752s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/local_setup.dsv
+[0.752s] -- Installing: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/package.dsv
+[0.753s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/ament_index/resource_index/packages/my_robot_msgs
+[0.753s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_generator_cExport.cmake
+[0.753s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.755s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[0.755s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.758s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_generator_cppExport.cmake
+[0.759s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.759s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.761s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.761s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.762s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgs__rosidl_typesupport_cExport.cmake
+[0.763s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.764s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.765s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.767s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgs__rosidl_typesupport_cppExport.cmake
+[0.767s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.768s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_generator_pyExport.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/export_my_robot_msgs__rosidl_generator_pyExport-noconfig.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/rosidl_cmake-extras.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.770s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgsConfig.cmake
+[0.771s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/cmake/my_robot_msgsConfig-version.cmake
+[0.771s] -- Up-to-date: /home/aice/ros2_ws/src/install/my_robot_msgs/share/my_robot_msgs/package.xml
+[0.775s] Invoked command in '/home/aice/ros2_ws/src/build/my_robot_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aice/ros2_ws/src/install/my_robot_package:/home/aice/ros2_ws/src/my_robot_package/install/my_robot_package:/home/aice/my_ros2_ws/src/install/aice_sim:/home/aice/turtlebot3_ws/install/turtlebot3_teleop:/home/aice/turtlebot3_ws/install/turtlebot3_example:/home/aice/turtlebot3_ws/install/my_turtlebot_controller:/opt/ros/humble /usr/bin/cmake --install /home/aice/ros2_ws/src/build/my_robot_msgs
